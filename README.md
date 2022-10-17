@@ -1,2 +1,3 @@
 # piano
-Keyboard piano using javascript
+### Keyboard piano using javascript.
+With easter egg
